@@ -12,6 +12,7 @@
 Soy Licenciado en Análisis y Programación de Sistemas con especialización en Gestión de Proyectos de Tecnología de la Información. Con sólida experiencia en metodologías ágiles y tradicionales, lidero equipos multidisciplinarios para implementar soluciones tecnológicas, optimizando procesos, controlando costos, riesgos y cumpliendo plazos.
 
 Me he desempeñado principalmente en sectores de **medios de pago, logística retail, puntos de venta, integraciones ERP y sistemas financieros**, integrando tecnologías modernas como servicios AWS, ISO8583, APIs REST/SOAP y soluciones transaccionales.
+Computer TM | Especializado en Desarrollo de Software, Arquitectura Corporativa y Adopción Estratégica de Inteligencia Artificial (AI Tools & LLMs).
 
 
 
