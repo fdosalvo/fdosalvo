@@ -21,6 +21,7 @@ Me he desempeñado principalmente en sectores de **medios de pago, logística re
 - Python 3.9 – Universidad Católica *(2022)*
 - Oracle SQL – Oracle SQL Technology *(2008)*
 - Diplomado en Ingeniería del Software – CIISA *(2004)*
+- Cursos varios IAS Santander Open academy *(2025-2026)*
 
 ---
 
@@ -31,6 +32,7 @@ Me he desempeñado principalmente en sectores de **medios de pago, logística re
 - **Infraestructura:** AWS (EKS, S3, Lambda), Azure, Kubernetes  
 - **Integraciones:** SOAP, REST, SOA Suite, ISO8583  
 - **Metodologías:** Scrum, Kanban, Waterfall  
+- **IA Opencode:** Modelos Zen DeepSeek,Bigpickle,Mimo
 - **Otros:** GitHub, PCI DSS Compliance, HSM Security, CI/CD
 
 ---
